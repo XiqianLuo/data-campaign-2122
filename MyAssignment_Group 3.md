@@ -2,7 +2,7 @@
 
 ## Collect and analyse existing materials data repositories and e-science platforms 
 
-### Template (copy and fill) 
+### Group 3 - Exabyte
 * website name: Exabyte
 * website URL: http://exabyte.io
 * brief description: 
